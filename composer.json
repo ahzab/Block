@@ -16,7 +16,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "{{Proider}}\\Block\\": "src/"
+            "Lavalite\\Block\\": "src/"
         }
     },
     "minimum-stability": "stable"
